@@ -3,3 +3,4 @@ scikit-image
 pandas
 seaborn
 scikit-learn
+statsmodels
